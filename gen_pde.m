@@ -3,7 +3,7 @@
 %   u''+lambda*k1(x)*u+f(u)k2(x)*u=0
 %
 % on domain -1,1 with u(-1)=u(1)=0
-% with n discretizatio points where f(u)=alpha(u)/beta(u) and
+% with n discretization points where f(u)=alpha(u)/beta(u) and
 %   alpha(u)=int_-1^1 g(x)u(x);
 %   beta(u)=u'(0)
 %   g(x)=exp(-gamma x^2) (gaussian with scaling gamma)
